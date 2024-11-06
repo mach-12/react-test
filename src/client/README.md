@@ -1,8 +1,13 @@
 # React + TypeScript + Vite
 
 ## To run using Docker
+```bash
 docker build -t react-test .
+```
+
+```bash
 docker run -p 3000:3000 react-test
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
